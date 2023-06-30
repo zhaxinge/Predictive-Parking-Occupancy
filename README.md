@@ -1,0 +1,10 @@
+# MUSA508 Final Project: ***Super Finder***
+
+[HTML Presentation](https://ying-yiping.github.io/MUSA508_Final_Super_Finder/MUSA508_Final_XYZ.html)
+
+**Yiping Ying & Xinge Zhang**
+
+In the U.S., the problems concerning parking are inveterate. One significant phenomenon caused by parking is **cruising**. Cruising can create negative externalities including congestion, air pollution and unnecessary fuel consumption (Fichman, 2016). For **individuals**, cruising for a public parking unit can waste precious time and money. All of these call for apps that can help people quickly find out the nearest vacant parking unit around their real time location. However, most of these applications are based on real-time database retrieval, which is greatly limited by the parking facility information covered by the data set and the statistical methods of facilities, making it difficult to provide users with accurate and effective real-time vacant parking information. Therefore, sometimes the users cannot locate the parking unit quickly and correctly, and will start a new round of depressing cruising.
+
+Our APP ***Super Finder*** can help with such problems. ***Super Finder*** is a **real-time interactive** parking unit-searching mobile phone application, which operates in the city of San Francisco only, due to the availability of data. The team trained an OLS model on the **3-month (April to June 2021)** parking data in San Francisco and offered **street segment-based** prediction of a reasonable occupancy for the public street parking units. The APP’s target users are **individual drivers** in San Francisco in the **workday daytime (9am-6pm)**, no matter if they are office workers who want to park economically during the working hours or housewives looking for a temporary public parking unit for their cars on the street while heading to supermarkets or banks. Considering the relatively good generalizability of the model, we believe this approach can provide them with a safe estimate of what street segment to park on.
+
