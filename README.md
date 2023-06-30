@@ -2,7 +2,7 @@
 
 [HTML Presentation](https://ying-yiping.github.io/MUSA508_Final_Super_Finder/MUSA508_Final_XYZ.html)
 
-** Xinge Zhang & Yiping Ying **
+**Xinge Zhang & Yiping Ying**
 
 In the U.S., the problems concerning parking are inveterate. One significant phenomenon caused by parking is **cruising**. Cruising can create negative externalities including congestion, air pollution and unnecessary fuel consumption (Fichman, 2016). For **individuals**, cruising for a public parking unit can waste precious time and money. All of these call for apps that can help people quickly find out the nearest vacant parking unit around their real time location. However, most of these applications are based on real-time database retrieval, which is greatly limited by the parking facility information covered by the data set and the statistical methods of facilities, making it difficult to provide users with accurate and effective real-time vacant parking information. Therefore, sometimes the users cannot locate the parking unit quickly and correctly, and will start a new round of depressing cruising.
 
