@@ -1,6 +1,6 @@
 # MUSA508 Final Project: ***Super Finder***
 
-[HTML Presentation](https://ying-yiping.github.io/MUSA508_Final_Super_Finder/MUSA508_Final_XYZ.html)
+[HTML Presentation](https://zhaxinge.github.io/Predictive-Parking-Occupancy/)
 
 **Xinge Zhang & Yiping Ying**
 
